@@ -12,7 +12,7 @@ The size of the indent is usually independent of the style. For Ruby and many pr
 
 #### Indented Code :
 
-```
+```html
 <div class="container show-grid">
 	<div class="row">
 		<div class="col-12">col-12</div>
@@ -29,7 +29,7 @@ The size of the indent is usually independent of the style. For Ruby and many pr
 
 #### Bad Indented Code :
 
-```
+```html
 <div class="container show-grid">
     <div class="row">
 <div class="col-12">col-12</div>
